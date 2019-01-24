@@ -3,5 +3,5 @@ steps:
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'echo "Test 2"'
+  - 'echo "Test Pull Request"'
 
