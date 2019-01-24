@@ -4,4 +4,3 @@ steps:
   args:
   - '-c'
   - 'echo "Test 2"'
-
